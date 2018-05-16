@@ -1,7 +1,10 @@
 .page-header {
-    background-color: #ff9400;
     margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    background: url('http://iamafoodblog.com/wp-content/uploads/2015/12/pulled-duck-nachos-3.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
